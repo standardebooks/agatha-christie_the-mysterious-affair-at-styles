@@ -41,7 +41,7 @@
 		<meta property="file-as" refines="#author">Christie, Agatha</meta>
 		<meta property="se:name.person.full-name" refines="#author">Dame Agatha Mary Clarissa Christie, Lady Mallowan</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Agatha_Christie</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79038407.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79038407</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Jean-Étienne Liotard</dc:contributor>
 		<meta property="file-as" refines="#artist">Liotard, Jean-Étienne</meta>
