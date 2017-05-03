@@ -30,7 +30,7 @@ span[epub|type~="subtitle"]{
 }
 
 figure{
-	margin: 0;
+	margin: 1em auto;
 	max-height: 100%;
 	text-align: center;
 }
@@ -39,6 +39,10 @@ figure img{
 	max-width: 100%;
 	margin: auto;
 	display: block;
+}
+
+figure + p{
+	text-indent: 0;
 }
 
 b{
