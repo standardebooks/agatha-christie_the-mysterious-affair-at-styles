@@ -61,16 +61,3 @@ blockquote[epub|type~="z3998:letter"] header p[epub|type~="se:letter.dateline"]{
 blockquote[epub|type~="z3998:letter"] header p{
 	text-align: center;
 }
-
-#styles-first-floor img,
-#mrs-inglethorps-bedroom img{
-	width: 40em;
-}
-
-#charred-paper img{
-	width: 10em;
-}
-
-#crumpled-envelope img{
-	width: 20em;
-}
