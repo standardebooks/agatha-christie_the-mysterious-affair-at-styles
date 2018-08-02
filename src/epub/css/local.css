@@ -44,21 +44,12 @@ figure + p{
 	text-indent: 0;
 }
 
-b{
-	font-weight: normal;
-}
-
-b,
 blockquote[epub|type~="z3998:letter"] header p.location{
 	font-variant: small-caps;
 }
 
 blockquote[epub|type~="z3998:letter"] header p[epub|type~="se:letter.dateline"]{
 	font-style: italic;
-}
-
-blockquote[epub|type~="z3998:letter"] header p{
-	text-align: center;
 }
 
 figure img{
