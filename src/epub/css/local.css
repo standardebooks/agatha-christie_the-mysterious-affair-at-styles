@@ -24,7 +24,7 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-.headline{
+#chapter-7 blockquote{
 	text-align: center;
 	font-variant: small-caps;
 }
