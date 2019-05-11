@@ -39,7 +39,7 @@
 		<dc:description id="description">Hercule Poirot solves the mystery of a murder in an English country manor.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Mysterious Affair at Styles&lt;/i&gt; isn’t just Agatha Christie’s first Poirot novel, it’s currently the only Poirot novel in the public domain. It was written on a bet that Christie couldn’t write a detective novel in which the reader couldn’t deduce the criminal. Her attempt laid the foundation for one of literature’s most famous detectives.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Mysterious Affair at Styles&lt;/i&gt; isn’t just Agatha Christie’s first Poirot novel, it was the only Poirot novel in the public domain until 2019. It was written on a bet that Christie couldn’t write a detective novel in which the reader couldn’t deduce the criminal. Her attempt laid the foundation for one of literature’s most famous detectives.&lt;/p&gt;
 			&lt;p&gt;In this novel we’re introduced to Poirot as he’s settling in to a new life in England. After a woman is murdered at the country estate he’s visiting, he has to use his detective skills to catch the criminal. &lt;i&gt;The Mysterious Affair at Styles&lt;/i&gt; sets the stage for the Golden Age of Detective Fiction, and has everything you’d expect from a story rich in those classic detective fiction tropes.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
