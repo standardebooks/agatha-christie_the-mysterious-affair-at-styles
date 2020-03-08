@@ -47,7 +47,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/863</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008667899</dc:source>
 		<meta property="se:word-count">57825</meta>
-		<meta property="se:reading-ease.flesch">77.03</meta>
+		<meta property="se:reading-ease.flesch">76.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mysterious_Affair_at_Styles</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/agatha-christie_the-mysterious-affair-at-styles</meta>
 		<dc:creator id="author">Agatha Christie</dc:creator>
