@@ -37,6 +37,7 @@ figure{
 figure img{
 	display: block;
 	margin: auto;
+	max-height: 20em;
 	max-width: 100%;
 }
 
@@ -50,8 +51,4 @@ blockquote[epub|type~="z3998:letter"] header p.location{
 
 blockquote[epub|type~="z3998:letter"] header p[epub|type~="se:letter.dateline"]{
 	font-style: italic;
-}
-
-figure img{
-	max-height: 20em;
 }
