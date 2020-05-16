@@ -37,7 +37,8 @@
 		<meta property="term" refines="#subject-2">sh2008109474</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<meta property="se:collection">Poirot</meta>
+		<meta property="belongs-to-collection" id="collection-1">Poirot</meta>
+		<meta property="collection-type" refines="collection-1">series</meta>
 		<dc:description id="description">Hercule Poirot solves the mystery of a murder in an English country manor.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Mysterious Affair at Styles&lt;/i&gt; isn’t just &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; first &lt;a href="https://standardebooks.org/collections/poirot"&gt;Poirot&lt;/a&gt; novel, it was the only Poirot novel in the public domain until 2019. It was written on a bet that Christie couldn’t write a detective novel in which the reader couldn’t deduce the criminal. Her attempt laid the foundation for one of literature’s most famous detectives.&lt;/p&gt;
