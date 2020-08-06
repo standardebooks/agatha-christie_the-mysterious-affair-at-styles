@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-6.xhtml">
-		<ignore>
-			<code>t-007</code>
-			<reason>The ampersand is part of prose in a letter written in the character's distinct style, not a company name that would require specifying no line breaks.</reason>
-		</ignore>
-		<ignore>
-			<code>t-008</code>
-			<reason>The ampersand is part of prose in a letter written in the character's distinct style, not a company name that would require specifying no line breaks.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-7.xhtml">
 		<ignore>
 			<code>t-011</code>
