@@ -19,11 +19,6 @@ blockquote[epub|type~="z3998:letter"] p[epub|type~="z3998:valediction"]{
 	margin-top: 1em;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 #chapter-7 blockquote{
 	text-align: center;
 	font-variant: small-caps;
