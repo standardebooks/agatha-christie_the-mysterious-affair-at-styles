@@ -37,10 +37,6 @@ figure img{
 	max-width: 100%;
 }
 
-figure + p{
-	text-indent: 0;
-}
-
 blockquote[epub|type~="z3998:letter"] header p.location{
 	font-variant: small-caps;
 }
