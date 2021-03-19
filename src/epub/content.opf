@@ -61,7 +61,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Jean-Étienne Liotard</dc:contributor>
 		<meta property="file-as" refines="#artist">Liotard, Jean-Étienne</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-%C3%89tienne_Liotard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-%C3%89tienne_Liotard</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50051951</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Keller</dc:contributor>
