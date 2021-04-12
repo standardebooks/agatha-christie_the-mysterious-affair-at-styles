@@ -45,6 +45,7 @@ blockquote[epub|type~="z3998:letter"] p[epub|type~="z3998:valediction"]{
 }
 
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
 	text-align: center;
 }
@@ -52,7 +53,7 @@ figure{
 figure img{
 	display: block;
 	margin: auto;
-	max-height: 20em;
+	max-height: 20vh;
 	max-width: 100%;
 }
 
