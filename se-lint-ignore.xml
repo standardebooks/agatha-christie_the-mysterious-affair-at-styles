@@ -6,4 +6,10 @@
 			<reason>The quotes are in a headline that lacks punctuation on purpose.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-12.xhtml">
+		<ignore>
+			<code>t-043</code>
+			<reason>Italics are to emphasize Poirot's accent.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
