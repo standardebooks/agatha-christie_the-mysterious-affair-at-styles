@@ -64,3 +64,11 @@ blockquote[epub|type~="z3998:letter"] header p.location{
 blockquote[epub|type~="z3998:letter"] header p[epub|type~="se:letter.dateline"]{
 	font-style: italic;
 }
+
+table{
+	margin: 1em auto;
+}
+
+table td + td{
+	padding-left: 1em;
+}
