@@ -62,10 +62,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79038407</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
-		<dc:contributor id="artist">Jean-Étienne Liotard</dc:contributor>
-		<meta property="file-as" refines="#artist">Liotard, Jean-Étienne</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-%C3%89tienne_Liotard</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50051951</meta>
+		<dc:contributor id="artist">Alfred James Dewey</dc:contributor>
+		<meta property="file-as" refines="#artist">Dewey, Alfred James</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2023119193</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Keller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Keller, Charles</meta>
