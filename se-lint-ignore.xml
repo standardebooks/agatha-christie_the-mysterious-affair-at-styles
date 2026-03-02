@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-7.xhtml">
-		<ignore>
-			<code>t-011</code>
+		<ignore code="t-011">
 			<reason>The quotes are in a headline that lacks punctuation on purpose.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-12.xhtml">
-		<ignore>
-			<code>t-043</code>
+		<ignore code="t-043">
 			<reason>Italics are to emphasize Poirot's accent.</reason>
 		</ignore>
 	</file>
