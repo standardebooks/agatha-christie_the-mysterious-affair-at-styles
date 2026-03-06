@@ -2,11 +2,14 @@
 <se-lint-ignore>
 	<file path="chapter-7.xhtml">
 		<ignore code="t-011">
+			<line>132</line>
+			<line>133</line>
 			<reason>The quotes are in a headline that lacks punctuation on purpose.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-12.xhtml">
 		<ignore code="t-043">
+			<line>15</line>
 			<reason>Italics are to emphasize Poirot's accent.</reason>
 		</ignore>
 	</file>
