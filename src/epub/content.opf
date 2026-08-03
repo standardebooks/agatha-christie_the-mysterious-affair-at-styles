@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A fastidious Belgian detective solves the mystery of a murder in an English country manor.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A fastidious Belgian detective solves the mystery of a murder in an English country manor.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Mysterious Affair at Styles&lt;/i&gt; isn’t just &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; first &lt;a href="https://standardebooks.org/collections/poirot"&gt;Poirot&lt;/a&gt; novel, it was the only Poirot novel in the public domain until 2019. It was written on a bet that Christie couldn’t write a detective novel in which the reader couldn’t deduce the criminal. Her attempt laid the foundation for one of literature’s most famous detectives.&lt;/p&gt;
 			&lt;p&gt;In this novel we’re introduced to Poirot as he’s settling in to a new life in England. After a woman is murdered at the country estate he’s visiting, he has to use his detective skills to catch the criminal. &lt;i&gt;The Mysterious Affair at Styles&lt;/i&gt; sets the stage for the Golden Age of Detective Fiction, and has everything you’d expect from a story rich in those classic detective fiction tropes.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/863</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008667899</dc:source>
